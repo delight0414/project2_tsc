@@ -69,7 +69,6 @@ useEffect(() => {
 }, [swiperInstance]);
 
 return(
-//
   {isSwiperActive ? (
     Swiper is active
   ) : (
